@@ -25,5 +25,8 @@
     "nodemon": "^3.1.2",
     "stripe": "^8.174.0",
     "validator": "^13.6.0"
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.9"
   }
 }
